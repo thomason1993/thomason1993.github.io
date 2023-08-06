@@ -1,0 +1,25 @@
+﻿.article-list li i {
+    font-size: 26px;
+    color: #0071dc;
+    position: absolute;
+    left: 0;
+    top: -2px;
+    margin-right: 5px;
+    -webkit-transition: 0.5s;
+    transition: 0.5s;
+}
+.article-list li {
+    display: block;
+    color: #252525;
+    margin-bottom: 10px;
+    font-weight: 600;
+    -webkit-transition: 0.7s;
+    transition: 0.7s;
+    padding-left: 35px;
+    position: relative;
+    -webkit-transition: 0.5s;
+    transition: 0.5s;
+}
+.article-list li:hover i {
+    color: #ffc221;
+}
