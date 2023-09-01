@@ -1,7 +1,7 @@
 "use strict";
 
 /**
- * @class KTUtil  base utilize class that privides helper functions
+ * @class KTUtil  base utilise class that privides helper functions
  */
 
 // Polyfills

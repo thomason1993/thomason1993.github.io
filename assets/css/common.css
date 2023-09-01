@@ -2,6 +2,19 @@
 	padding: 0px 15px !important;
 }
 
-.navbar-nav{
+.navbar-nav {
 	margin-top:14px !important;
+	float:right !important;
+}
+
+body{
+	font-size:17px !important;
+}
+
+.OurTestingServicesTable th {
+	vertical-align:middle !important;
+}
+
+.OurTestingServicesTable td {
+	vertical-align: middle !important;
 }

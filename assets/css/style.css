@@ -2658,7 +2658,7 @@ Work Area
 Work Area End
 =================================*/
 .choose-area {
-  background-color: #070b3b;
+    background-color: #F7F7F7;
 }
 
 .choose-content {
@@ -2666,12 +2666,12 @@ Work Area End
 }
 
 .choose-content .section-title h2 {
-  max-width: 470px;
-  color: #ffffff;
+    max-width: 470px;
+    color: #444444;
 }
 
 .choose-content .section-title p {
-  color: #ffffff;
+    color: #444444;
 }
 
 .choose-content .choose-content-card {
@@ -2694,15 +2694,15 @@ Work Area End
 }
 
 .choose-content .choose-content-card .content h3 {
-  margin-top: 10px;
-  margin-bottom: 30px;
-  color: #ffffff;
+    margin-top: 10px;
+    margin-bottom: 30px;
+    color: #444444;
 }
 
 .choose-content .choose-content-card p {
-  margin-top: 5px;
-  margin-bottom: 0;
-  color: #ffffff;
+    margin-top: 5px;
+    margin-bottom: 0;
+    color: #444444;
 }
 
 .choose-img {
