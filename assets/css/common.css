@@ -18,3 +18,8 @@ body{
 .OurTestingServicesTable td {
 	vertical-align: middle !important;
 }
+
+.our-technologies iconify-icon {
+	font-size: 70px;
+	color: #0071dc;
+}
