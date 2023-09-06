@@ -99,9 +99,13 @@ img {
   padding-top: 80px;
 }
 
+.pb-45{
+    padding-bottom:45px;
+}
+
 .ptb-70 {
-  padding-top: 70px;
-  padding-bottom: 70px;
+    padding-top: 70px;
+    padding-bottom: 70px;
 }
 
 .pb-100 {
@@ -6185,7 +6189,7 @@ Map Area End
 }
 
 .footer-widget {
-  margin-bottom: 30px;
+  margin-bottom: 15px;
 }
 
 .footer-widget .footer-logo {
@@ -6400,6 +6404,7 @@ Map Area End
 
 .copy-right-text {
   text-align: center;
+  font-size:12px;
 }
 
 .copy-right-text p {
