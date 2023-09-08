@@ -2701,6 +2701,16 @@ Work Area End
     margin-top: 10px;
     margin-bottom: 30px;
     color: #444444;
+    top:2px;
+    position:relative;
+}
+
+.choose-content .choose-content-card .content .one-line {
+    margin-top: 10px;
+    margin-bottom: 30px;
+    color: #444444;
+    top: 17px !important;
+    position: relative;
 }
 
 .choose-content .choose-content-card p {
@@ -2711,6 +2721,7 @@ Work Area End
 
 .choose-img {
   margin-bottom: 30px;
+  margin-top:110px;
 }
 
 .choose-img img {
